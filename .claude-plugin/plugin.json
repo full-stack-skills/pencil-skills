@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/pencil-skills",
-  "repository": "https://github.com/full-statck-skills/pencil-skills",
+  "homepage": "https://github.com/full-stack-skills/pencil-skills",
+  "repository": "https://github.com/full-stack-skills/pencil-skills",
   "source": "./",
   "skills": [
     "./skills/pencil-design-from-stitch-html",
