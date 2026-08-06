@@ -176,7 +176,7 @@ skills/pencil-design-from-stitch-html/
 ## References
 
 - [Stitch MCP](https://stitch.withgoogle.com/docs/mcp/guide/)
-- [Pencil MCP tools](https://github.com/google-labs-code/pencil-skills) / pencil-skills [stitch-html-to-pencil-batch.md](../../docs/stitch-html-to-pencil-batch.md)
+- [Pencil MCP tools](https://github.com/google-labs-code/pencil-skills) / pencil-skills [stitch-html-to-pencil-batch.md](https://github.com/full-stack-skills/pencil-skills/blob/main/docs/stitch-html-to-pencil-batch.md)
 - [HTML → Pencil mapping](references/html-to-pencil-mapping.md)
 - [Tailwind → Pencil styles](references/tailwind-to-pencil-styles.md) (includes §15–16 framework mapping and refs vs primitives)
 - Per-framework style tables (incl. refs/constraints §15): [uview](references/uview-to-pencil-styles.md), [uviewpro](references/uviewpro-to-pencil-styles.md), [element](references/element-to-pencil-styles.md), [bootstrap](references/bootstrap-to-pencil-styles.md), [layui](references/layui-to-pencil-styles.md), [vant](references/vant-to-pencil-styles.md)

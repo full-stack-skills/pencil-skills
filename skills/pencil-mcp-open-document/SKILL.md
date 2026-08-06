@@ -11,7 +11,7 @@ This skill is designed to call the Pencil MCP tool:
 
 *   `open_document`
 
-If your client namespaces MCP tools, it may appear as `mcp__pencil__open_document`. Full parameter details: [docs/pencil-mcp-tools.md](../../docs/pencil-mcp-tools.md).
+If your client namespaces MCP tools, it may appear as `mcp__pencil__open_document`. Full parameter details: see [`docs/pencil-mcp-tools.md`](https://github.com/full-stack-skills/pencil-skills/blob/main/docs/pencil-mcp-tools.md) in the pencil-skills repository.
 
 ## When to use this skill
 
@@ -66,7 +66,7 @@ open document, create file, new design, load file, switch document, initialize c
 
 ## References
 
-- [Pencil MCP 工具说明](../../docs/pencil-mcp-tools.md) — open_document 等方法的完整参数。
+- [Pencil MCP 工具说明](https://github.com/full-stack-skills/pencil-skills/blob/main/docs/pencil-mcp-tools.md) — open_document 等方法的完整参数。
 
 ## 能力边界
 

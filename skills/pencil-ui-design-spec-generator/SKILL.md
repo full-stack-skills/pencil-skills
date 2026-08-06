@@ -72,8 +72,8 @@ Parameters: nodeId: <root-id from Step 4>
 
 ## References
 
-- [Pencil MCP 工具说明](../../docs/pencil-mcp-tools.md) — 各 MCP 方法参数与用法。
-- [Pencil MCP](../../docs/Pencil%20MCP.md) — 官方 MCP 说明。
+- [Pencil MCP 工具说明](https://github.com/full-stack-skills/pencil-skills/blob/main/docs/pencil-mcp-tools.md) — 各 MCP 方法参数与用法。
+- [Pencil MCP](https://github.com/full-stack-skills/pencil-skills/blob/main/docs/Pencil%20MCP.md) — 官方 MCP 说明。
 
 ## 能力边界
 
