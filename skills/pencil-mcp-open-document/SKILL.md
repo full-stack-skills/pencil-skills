@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-open-document
 description: Open or create a design document. Use when you need to initialize design tasks, create new files, or switch to specific designs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

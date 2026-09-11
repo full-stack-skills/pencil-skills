@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-system-layui
 description: Initialize Layui. design system components in Pencil variables and component overview.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

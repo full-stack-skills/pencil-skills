@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-set-variables
 description: Set or update design variables. Use to establish or maintain a Design Token system.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

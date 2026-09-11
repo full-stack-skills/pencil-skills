@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-find-empty-space-on-canvas
 description: Smartly find empty canvas space. Use to automatically plan artboard placement to avoid overlap and keep the canvas organized.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

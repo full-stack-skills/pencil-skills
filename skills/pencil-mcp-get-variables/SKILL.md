@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-variables
 description: Read design variables Tokens . Use to get Design Tokens color font variables defined in the current document to ensure consistency.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

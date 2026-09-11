@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-editor-state
 description: Get current design environment context. Use when you need to understand what is currently selected, canvas position, and environment state before any task.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

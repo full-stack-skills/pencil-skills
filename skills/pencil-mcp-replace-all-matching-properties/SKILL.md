@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-replace-all-matching-properties
 description: Global property batch replace. Use for global style adjustment, e.g., 'Replace all red backgrounds with brand blue'.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

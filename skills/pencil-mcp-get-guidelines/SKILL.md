@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-guidelines
 description: Get design system guidelines. Use to read and understand specifications e.g. Material Design iOS HIG or custom specs before designing.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

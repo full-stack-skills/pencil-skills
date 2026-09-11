@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-search-all-unique-properties
 description: Global property search. Use for design audit, e.g., 'Find all nodes using red background #FF0000 '.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

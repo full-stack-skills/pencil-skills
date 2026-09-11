@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-batch-get
 description: Batch search and read node information. The Agent's 'Eyes'. Use to find specific components e.g. all nodes named 'Button' or get child structure within a container.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

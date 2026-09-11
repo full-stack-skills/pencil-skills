@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-screenshot
 description: Get node visual screenshot. Visual Verification. Use to capture screenshots after operations to verify if the design meets expectations.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

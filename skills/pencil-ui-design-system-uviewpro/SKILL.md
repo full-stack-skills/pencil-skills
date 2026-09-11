@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-system-uviewpro
 description: Initialize uView Pro. design system components in Pencil variables and component overview.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

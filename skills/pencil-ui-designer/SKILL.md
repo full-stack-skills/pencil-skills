@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-designer
 description: The Pencil Orchestrator. Handles the flow of initializing Design System Components based on requirements.
-license: Apache 2.0
+license: Apache-2.0
 ---
 
 

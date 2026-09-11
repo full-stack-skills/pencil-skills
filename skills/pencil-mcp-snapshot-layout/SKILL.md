@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-snapshot-layout
 description: Get page layout structure snapshot. Use when you need to understand the current page's DOM-like tree structure to prepare for layout adjustments.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

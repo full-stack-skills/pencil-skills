@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-system-ucharts
 description: Initialize uCharts. design system components chart placeholders and data-viz tokens in Pencil.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-style-guide
 description: Get specific style detailed definitions. Use to get metadata for a specific style, including palettes, typography rules, etc.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

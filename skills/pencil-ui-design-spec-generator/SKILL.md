@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-spec-generator
 description: Translates vague user requirements into an action-level PENCIL_PLAN sequence of Pencil MCP tool calls . Does not execute; outputs the plan only.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

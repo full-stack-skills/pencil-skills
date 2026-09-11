@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-system-bootstrap
 description: Initialize Bootstrap. design system components in Pencil variables and component overview.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

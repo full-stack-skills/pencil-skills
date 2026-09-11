@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-batch-design
 description: Batch execute design changes. The Agent's 'Hands'. Core capability for inserting, updating, moving, or deleting nodes.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

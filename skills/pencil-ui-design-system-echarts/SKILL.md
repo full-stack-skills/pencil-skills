@@ -1,7 +1,7 @@
 ---
 name: pencil-ui-design-system-echarts
 description: Initialize ECharts. design system components chart placeholders and data-viz tokens in Pencil.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

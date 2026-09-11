@@ -1,7 +1,7 @@
 ---
 name: pencil-mcp-get-style-guide-tags
 description: Explore design style tags. Use to get design inspiration, such as 'Modern', 'Dark Mode', 'SaaS' directions.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: pencil-skill-creator
 description: Factory skill for creating new pencil-ui-design-system-* skills. Use when you need to add support for a new design system layui antd bootstrap element uview uviewpro vant ucharts echarts etc. to the Pencil ecosystem.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 
