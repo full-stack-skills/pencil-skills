@@ -1,5 +1,5 @@
 ---
-name: "pencil"
+name: pencil
 license: Apache-2.0
 description: "用于通过 Pencil MCP 读取/修改 .pen 设计文件并校验布局。用户提到 pencil/.pen/设计稿编辑、需要列出工具或执行 batch_get/batch_design 时调用。"
 ---
